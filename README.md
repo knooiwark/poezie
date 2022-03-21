@@ -1,2 +1,2 @@
 # poezie
-Javascript exercise for generating dutch poetry
+Generating dutch poetry. Needs some improvement though....
